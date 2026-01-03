@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 18,
+    "supported_formats": [18, 64],
+    "min_format": 18,
+    "max_format": 99,
+    "description": "§6Simple Tooltip v1\n§eby NovaXI"
+}
