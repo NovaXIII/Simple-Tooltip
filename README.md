@@ -30,8 +30,8 @@ while making item information easier to read at a glance.
 ---
 
 ## 🔗 Available On
-- **Modrinth:** https://modrinth.com/resourcepack/simple-tooltip  
-- **CurseForge:** https://www.curseforge.com/minecraft/texture-packs/simple-tooltip  
+- **Modrinth:** [link](https://modrinth.com/resourcepack/simple-tooltip)
+- **CurseForge:** https://www.curseforge.com/minecraft/texture-packs/simple-tooltip
 
 ---
 
